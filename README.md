@@ -1,4 +1,4 @@
-# Docker_Templates
+# Docker Templates
 ## This is a collection of various sample template which can be used to build a docker image. You can add more configurations to it according to your use case.
 
 # Contribution
